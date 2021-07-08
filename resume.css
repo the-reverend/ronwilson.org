@@ -210,3 +210,15 @@ body {
 		display:none !important;
 	}
 }
+
+hr {
+	clear: both;
+	margin: 0px;
+	height: 0px;
+	overflow: hidden;
+	border: none;
+	background: transparent;
+	border-bottom: 0px none;
+	padding: 0;
+	page-break-after: always;
+}
